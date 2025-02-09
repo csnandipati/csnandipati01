@@ -34,7 +34,7 @@ while True:
         balance_enquiry()
     elif choice == 4:
 
-        print("thankyou for using the Atm")
+        print("thankyou for using the Atm visit again")
         break
 else:
     print("invalid choice.please try again.")
